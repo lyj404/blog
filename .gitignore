@@ -1,6 +1,25 @@
 # 忽略文件夹
 public/
 resouurces/_gen/
+_obj
+_test
 
 # 忽略文件
 .hugo_build.lock
+.DS_Store
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+# 编译之后的文件
+*.o
+*.a
+*.so

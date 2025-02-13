@@ -1,0 +1,41 @@
+name: 部署到 GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # 触发部署的分支
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest  # 在最新版本的 Ubuntu 环境中运行
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    steps:
+      # 拉取代码
+      - name: 拉取代码
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # 拉取 Hugo 主题（true 或 recursive）
+          fetch-depth: 0    # 拉取完整 Git 历史记录以支持 .GitInfo 和 .Lastmod
+
+      # 设置 Hugo 环境
+      - name: 设置 Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.143.1'  # 使用指定版本的 Hugo
+
+      # 生成静态文件
+      - name: 生成 Hugo 站点
+        run: hugo --minify  # 生成并压缩静态文件
+
+      # 部署到 GitHub Pages
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          personal_token: ${{ secrets.ACTION_TOKEN }}  # 使用 GitHub 自动生成的 Token
+          publish_dir: ./public  # Hugo 生成的静态文件目录
+          publish_branch: gh-pages
+          keep_files: false  # 清除目标仓库的旧文件
+
