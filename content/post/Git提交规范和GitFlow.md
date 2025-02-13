@@ -11,6 +11,7 @@ keywords:
   - GitFlow
 description: 讲述如何使用 Git 提交规范和 Git Flow 工作流来有效管理代码版本控制。通过遵循标准化的提交信息格式和结构化的分支策略，开发团队可以提高代码的可维护性和协作效率。
 author: LYJ
+slug: git-specifications-gitflow
 ---
 # Git提交规范
 在使用`git` 提交代码的时候，由于每个人都有自己的书写风格，导致`git log`很混乱，不利于阅读和维护，因此形成了一套通用`git`提交规范。

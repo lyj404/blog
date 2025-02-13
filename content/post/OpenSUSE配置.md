@@ -11,6 +11,7 @@ keywords:
   - Linux
 description: openSUSE配置相关的开发环境
 author: LYJ
+slug: opensuse-configuration
 ---
 # 基本配置
 ## 命令行配置软件源

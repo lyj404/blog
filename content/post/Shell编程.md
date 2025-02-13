@@ -11,6 +11,7 @@ keywords:
   - Shell
 description: Shell既是一种命令语言，又是一种程序设计语言，在中文中解释“外壳”的意思，就是操作系统的外壳。工作中我们通过shell命令来操作和控制操作系统，在Linux操作系统中的Shell命令就包括touch、cd、pwd、mkdir等等。
 author: LYJ
+slug: shell-program
 ---
 # Shell
 ## 什么是Shell？

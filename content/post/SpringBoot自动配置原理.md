@@ -11,6 +11,7 @@ keywords:
   - Java
 description: Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。
 author: LYJ
+slug: springboot-autoconfiguration-principle
 ---
 # SPI
 `SpringBoot`的自动装配是通过SPI的方式实现的，并进行了进一步的优化，从而实现了自动装配。`SPI`全称为Serveice Provider Interface，是Java提供的一种服务发现机制。它**允许不同的组件在运行时动态的扩展、替换和加载实现**。`SPI`是一种基于接口和实现分离的设计模式。

@@ -11,6 +11,7 @@ keywords:
   - Linux
 description: 相较于Windows下的WPS，Linux下的 WPS存在的较多的问题，如字体确实，PDF功能不能使用，PDF文字缺失等问题。
 author: LYJ
+slug: linux-wps-problem
 ---
 ## WPS
 **安装WPS之后，需要将windows中的字体拷贝到Linux系统下，否则将会导致WPS出现字体缺失问题**

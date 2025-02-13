@@ -11,6 +11,7 @@ keywords:
   - Linux
 description: EndeavourOS安装显卡驱动记录，arch系列皆通用
 author: LYJ
+slug: endeavoursos-install-graphics-card-driver
 ---
 # 核显驱动安装
 ## Intel核显驱动

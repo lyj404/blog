@@ -11,6 +11,7 @@ keywords:
   - Java
 description: HashMap是数据结构中的哈希表在Java中的具体实现。JDK1.7的HashMap采用数组+链表的方式实现。
 author: LYJ
+slug: java1.7-hashmap-implement
 ---
 # 哈希表
 HashMap是数据结构中的哈希表在Java中的具体实现。

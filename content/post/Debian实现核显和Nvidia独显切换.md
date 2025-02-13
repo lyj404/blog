@@ -11,6 +11,7 @@ keywords:
   - 切换显卡
 description: Debian并没有像Ubuntu一样有nvidia-prime的软件包，因此不能使用sudo prime-select来切换显卡，但是有一个名叫envycontrol的开源项目可是实现通过使用命令行切换来GPU。
 author: LYJ
+slug: debian-graphics-card-driver-switch
 ---
 # 安装Nvidia 驱动
 **更新软件源**

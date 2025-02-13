@@ -10,6 +10,7 @@ keywords:
   - Database
 description: MongoDB 是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。
 author: LYJ
+slug: mongodb-description
 ---
 # MongoDB简介
 MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供一个可扩展的高性能数据存储解决方案。MongoDB是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。

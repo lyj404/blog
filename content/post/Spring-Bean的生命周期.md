@@ -11,6 +11,7 @@ keywords:
   - Java
 description: 在Java应用中，普通的Java Bean的生命周期很简单。而Spring的Bean的生命周期则比较复杂，Spring的Bean由IOC容器进行实例化、组装和管理。
 author: LYJ
+slug: spring-bean-lifecycle
 ---
 # Bean的生命周期
 在Java应用中，普通的Java Bean的生命周期很简单。使用关键字`new`对Bean进行实例化，之后Bean就可使用了，当Bean不在被使用就会被Java的垃圾回收机制回收。概括的说就是两个阶段：

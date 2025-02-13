@@ -11,6 +11,7 @@ keywords:
   - Java
 description: JVM（Java Virtual Machine）内存结构是指JVM在运行时将内存划分为不同区域，用于管理程序的运行和数据。
 author: LYJ
+slug: java-jvm-memory-structure
 ---
 # 运行时数据区域
 JVM在运行Java程序的过程中会把管理的内存分成不同的数据区域

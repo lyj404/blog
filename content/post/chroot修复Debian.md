@@ -12,6 +12,7 @@ keywords:
   - chroot
 description: chroot是一个Unix-like系统中的命令，用于改变进程的根目录，可用于系统恢复和修复
 author: LYJ
+slug: chroot-fix-debian-problem
 ---
 # 问题描述
 由于我将Debian系统安装在移动硬盘上，在系统刚装完重启的时候没有出现问题，但在我关机之后，隔离一段时间再次启动移动硬盘中的Debian系统的时候，在BIOS的启动项中就只有电脑本身的EFI启动项了，移动硬盘中的Debian对应的EFI启动项消失了

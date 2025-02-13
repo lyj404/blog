@@ -9,6 +9,7 @@ keywords:
   - JWT
 description: JWT 是 JSON Web Token 的缩写，是一种用于在网络应用环境间传递安全信息的简洁的、URL安全的表述性声明规范。
 author: LYJ
+slug: jwt-description
 ---
 JWT 是 JSON Web Token 的缩写，是一种用于在网络应用环境间传递安全信息的简洁的、URL安全的表述性声明规范。JWT 可以被用来在不同的应用程序之间传递声明，例如用户身份信息、授权信息等。
 # JWT的工作原理

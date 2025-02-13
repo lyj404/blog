@@ -11,6 +11,7 @@ keywords:
   - Java
 description: 将Spring Boot项目的HTTP转化成HTTPS
 author: LYJ
+slug: springboot-use-https
 ---
 将SpringBoot项目的HTTP转化成HTTPS只需要在`application.yml`进行相关的配置，或者是通过实现 `WebServerFactoryCustomizer<ConfigurableWebServerFactory>` 创建一个配置类，以自动将 HTTP 流量重定向到 HTTPS。这两个方法均可实现将HTTP转为HTTPS。
 **具体步骤如下：**

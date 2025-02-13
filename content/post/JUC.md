@@ -10,6 +10,7 @@ keywords:
   - Java
 description: JUC（Java Util Concurrent）是Java5之后新增的一组并发编程工具包，提供了一系列高效、线程安全的并发集合，方便在多线程环境下处理共享数据
 author: LYJ
+slug: java-juc-description
 ---
 # JUC
 

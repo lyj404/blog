@@ -29,6 +29,11 @@ services:
     googleAnalytics:
         id:
 
+# sitemap配置
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+
 pagination:
     pagerSize: 10
 
@@ -200,20 +205,36 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+  main:
+    - identifier: "home"
+      name: "首页"
+      url: "/"
+      weight: 1
+    - identifier: "archives"
+      name: "归档"
+      url: "/archives/"
+      weight: 2
+    - identifier: "tags"
+      name: "标签"
+      url: "/tags/"
+      weight: 3
+    - identifier: "categories"
+      name: "分类"
+      url: "/categories/"
+      weight: 4
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
+  social:
+    - identifier: "github"
+      name: "GitHub"
+      url: "https://github.com/CaiJimmy/hugo-theme-stack"
+      params:
+        icon: "brand-github"
+    - identifier: "mail"
+      name: "Mail"
+      url: "mailto:lyj404@qq.com"
+      params:
+        icon: "mail"
 
-        - identifier: mail
-          name: Mail
-          url: mailto:lyj404@qq.com
-          params:
-              icon: mail
 
 related:
     includeNewer: true

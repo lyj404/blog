@@ -9,6 +9,7 @@ keywords:
   - Linux系统开机时间优化
 description: 通过禁用不必要的服务、优化 GRUB 设置和分析启动过程来优化Linux系统开机时间
 author: LYJ
+slug: linux-starup-time-optimization
 ---
 # 优化系统开机时间
 ## 关闭不必要的开机自启服务

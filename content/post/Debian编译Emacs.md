@@ -11,6 +11,7 @@ keywords:
   - Emacs
 description: Emacs 是一个文本编辑器系列，包含有多个分支，其中最主流的一支是 GNU Emacs，大多数情况下所说的 Emacs 都是指 GNU Emacs。Emacs 这一名字最早来源于 “Editor MACroS”，后来也有人称它集合了五个主要功能键的首字母 Esc、Meta、Alt、Ctrl、Shift。
 author: LYJ
+slug: debian-build-emacs
 ---
 # 安装依赖
 Debian编译Emacs需要一些依赖，下载方法如下：

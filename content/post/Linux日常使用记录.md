@@ -10,6 +10,7 @@ keywords:
   - Linux
 description: 该文章记录了日常使用Linux过程中一些我容易遗忘的内容
 author: LYJ
+slug: linux-daily-use-record
 ---
 # 更换当前语言
 **列出当前安装的语言：**

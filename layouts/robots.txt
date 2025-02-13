@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /tags/
+Allow: /categories/
+Allow: /archives/
+Disallow: /ts/
+Disallow: /scss/
+
+
+Sitemap: {{ .Site.BaseURL }}/sitemap.xml

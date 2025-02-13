@@ -11,6 +11,7 @@ keywords:
   - Linux
 description: OpenSSH是SSH（Secure Shell）协议的免费且开源的实现，主要用于安全地远程控制计算机或在计算机之间传输文件。SSH协议通过加密通道确保了数据传输的安全性，而OpenSSH则提供了这一协议的具体应用。 为了提升用户体验和操作便捷性，OpenSSH客户端允许用户通过一个名为config的配置文件自定义SSH连接的参数。
 author: LYJ
+slug: ssh-configuration-file-description
 ---
 `OpenSSH`是SSH（Secure Shell）协议的免费且开源的实现，主要用于安全地远程控制计算机或在计算机之间传输文件。SSH协议通过加密通道确保了数据传输的安全性，而OpenSSH则提供了这一协议的具体应用。 为了提升用户体验和操作便捷性，OpenSSH客户端允许用户通过一个名为`config`的配置文件自定义SSH连接的参数。这个配置文件位于用户的`~/.ssh`目录中，该目录通常会在用户首次运行SSH命令时自动创建。通过编辑`config`文件，用户可以为不同的主机设置特定的连接选项，如自定义的用户名、端口号、使用的私钥文件等，从而简化日常的SSH连接操作。
 

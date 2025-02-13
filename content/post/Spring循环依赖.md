@@ -11,6 +11,7 @@ keywords:
   - 循环依赖
 description: 循环依赖是指两个或多个模块或组件之间相互依赖，形成一个闭环情况。而Spring通过三级缓存解决循环依赖。
 author: LYJ
+slug: spring-circular-dependency
 ---
 # 循环依赖
 循环依赖是指两个或多个模块或组件之间相互依赖，形成一个闭环情况。

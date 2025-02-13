@@ -11,6 +11,7 @@ keywords:
   - Java
 description: sychronized是Java的关键字，用于实现线程之间的同步，保证多个线程对共享资源的安全访问，也被称为同步锁
 author: LYJ
+slug: sychronized-underlying-implementation
 ---
 # sychronized
 `sychronized`是Java的关键字，用于实现线程之间的同步，保证多个线程对共享资源的安全访问，也被成为同步锁。

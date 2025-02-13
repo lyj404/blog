@@ -9,6 +9,7 @@ keywords:
   - Linux目录作用详解
 description: 在Linux系统中，不同的目录具有不同的作用和功能，每个目录都扮演着特定的角色，有助于组织和管理文件系统。
 author: LYJ
+slug: linux-dirctory-description
 ---
 在Linux系统中，不同的目录具有不同的作用和功能，每个目录都扮演着特定的角色，有助于组织和管理文件系统。
 **Linux下各目录的作用：**
