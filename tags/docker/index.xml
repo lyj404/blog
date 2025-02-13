@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on LYJ&#39;s Blog</title>
+    <link>https://lyj.cloudns.ch/tags/docker/</link>
+    <description>Recent content in Docker on LYJ&#39;s Blog</description>
+    <image>
+      <title>LYJ&#39;s Blog</title>
+      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Aug 2023 20:18:49 +0000</lastBuildDate>
+    <atom:link href="https://lyj.cloudns.ch/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://lyj.cloudns.ch/post/docker-description/</link>
+      <pubDate>Thu, 24 Aug 2023 20:18:49 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/docker-description/</guid>
+      <description>Docker是一个开源的容器引擎，是一种操作系统级别的虚拟化技术，Docker让开发者可以打包自己的应用以及依赖到一个可移植的容器当中，然后发布到任何的Linux机器上面。</description>
+    </item>
+  </channel>
+</rss>

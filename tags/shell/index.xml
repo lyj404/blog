@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shell on LYJ&#39;s Blog</title>
+    <link>https://lyj.cloudns.ch/tags/shell/</link>
+    <description>Recent content in Shell on LYJ&#39;s Blog</description>
+    <image>
+      <title>LYJ&#39;s Blog</title>
+      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 27 Aug 2023 16:47:56 +0000</lastBuildDate>
+    <atom:link href="https://lyj.cloudns.ch/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shell编程</title>
+      <link>https://lyj.cloudns.ch/post/shell-program/</link>
+      <pubDate>Sun, 27 Aug 2023 16:47:56 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/shell-program/</guid>
+      <description>Shell既是一种命令语言，又是一种程序设计语言，在中文中解释“外壳”的意思，就是操作系统的外壳。工作中我们通过shell命令来操作和控制操作系统，在Linux操作系统中的Shell命令就包括touch、cd、pwd、mkdir等等。</description>
+    </item>
+  </channel>
+</rss>

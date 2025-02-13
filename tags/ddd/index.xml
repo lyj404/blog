@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DDD on LYJ&#39;s Blog</title>
+    <link>https://lyj.cloudns.ch/tags/ddd/</link>
+    <description>Recent content in DDD on LYJ&#39;s Blog</description>
+    <image>
+      <title>LYJ&#39;s Blog</title>
+      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Oct 2023 16:29:12 +0000</lastBuildDate>
+    <atom:link href="https://lyj.cloudns.ch/tags/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DDD领域驱动设计</title>
+      <link>https://lyj.cloudns.ch/post/domain-driver-design-desciption/</link>
+      <pubDate>Sun, 08 Oct 2023 16:29:12 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/domain-driver-design-desciption/</guid>
+      <description>DDD是一种软件设计思想和方法论，以领域为核心构建软件设计体系，将业务模型抽象成领域模型进行拆解和封装。</description>
+    </item>
+  </channel>
+</rss>

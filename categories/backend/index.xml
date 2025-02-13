@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BackEnd on LYJ&#39;s Blog</title>
+    <link>https://lyj.cloudns.ch/categories/backend/</link>
+    <description>Recent content in BackEnd on LYJ&#39;s Blog</description>
+    <image>
+      <title>LYJ&#39;s Blog</title>
+      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 06 Jan 2025 20:38:40 +0000</lastBuildDate>
+    <atom:link href="https://lyj.cloudns.ch/categories/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git提交规范和GitFlow</title>
+      <link>https://lyj.cloudns.ch/post/git-specifications-gitflow/</link>
+      <pubDate>Mon, 06 Jan 2025 20:38:40 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/git-specifications-gitflow/</guid>
+      <description>讲述如何使用 Git 提交规范和 Git Flow 工作流来有效管理代码版本控制。通过遵循标准化的提交信息格式和结构化的分支策略，开发团队可以提高代码的可维护性和协作效率。</description>
+    </item>
+    <item>
+      <title>SpringBoot使用HTTPS</title>
+      <link>https://lyj.cloudns.ch/post/springboot-use-https/</link>
+      <pubDate>Mon, 18 Nov 2024 20:15:29 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/springboot-use-https/</guid>
+      <description>将Spring Boot项目的HTTP转化成HTTPS</description>
+    </item>
+    <item>
+      <title>.gitignore文件的配置使用</title>
+      <link>https://lyj.cloudns.ch/post/gitignore-file-use/</link>
+      <pubDate>Sat, 02 Mar 2024 17:16:07 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/gitignore-file-use/</guid>
+      <description>.gitignore文件的作用是告诉Git哪些文件或目录不需要纳入版本控制。当您在项目中创建.gitignore文件并列出要忽略的文件或目录时，Git会在执行各种操作（如git status、git add、git commit等）时忽略这些被指定的文件或目录。</description>
+    </item>
+    <item>
+      <title>MongoDB的基本操作</title>
+      <link>https://lyj.cloudns.ch/post/mongodb-description/</link>
+      <pubDate>Tue, 09 Jan 2024 19:39:59 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/mongodb-description/</guid>
+      <description>MongoDB 是一个基于分布式文件存储的数据库。由 C&#43;&#43; 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。</description>
+    </item>
+    <item>
+      <title>DDD领域驱动设计</title>
+      <link>https://lyj.cloudns.ch/post/domain-driver-design-desciption/</link>
+      <pubDate>Sun, 08 Oct 2023 16:29:12 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/domain-driver-design-desciption/</guid>
+      <description>DDD是一种软件设计思想和方法论，以领域为核心构建软件设计体系，将业务模型抽象成领域模型进行拆解和封装。</description>
+    </item>
+    <item>
+      <title>SpringBoot自动装配原理</title>
+      <link>https://lyj.cloudns.ch/post/springboot-autoconfiguration-principle/</link>
+      <pubDate>Tue, 26 Sep 2023 21:42:12 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/springboot-autoconfiguration-principle/</guid>
+      <description>Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。</description>
+    </item>
+    <item>
+      <title>sychronized底层实现</title>
+      <link>https://lyj.cloudns.ch/post/sychronized-underlying-implementation/</link>
+      <pubDate>Wed, 20 Sep 2023 16:14:47 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/sychronized-underlying-implementation/</guid>
+      <description>sychronized是Java的关键字，用于实现线程之间的同步，保证多个线程对共享资源的安全访问，也被称为同步锁</description>
+    </item>
+    <item>
+      <title>实现HashMap(JDK1.7)</title>
+      <link>https://lyj.cloudns.ch/post/java1.7-hashmap-implement/</link>
+      <pubDate>Mon, 18 Sep 2023 20:18:43 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/java1.7-hashmap-implement/</guid>
+      <description>HashMap是数据结构中的哈希表在Java中的具体实现。JDK1.7的HashMap采用数组&#43;链表的方式实现。</description>
+    </item>
+    <item>
+      <title>Spring循环依赖</title>
+      <link>https://lyj.cloudns.ch/post/spring-circular-dependency/</link>
+      <pubDate>Thu, 07 Sep 2023 18:01:30 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/spring-circular-dependency/</guid>
+      <description>循环依赖是指两个或多个模块或组件之间相互依赖，形成一个闭环情况。而Spring通过三级缓存解决循环依赖。</description>
+    </item>
+    <item>
+      <title>Spring Bean的生命周期</title>
+      <link>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</link>
+      <pubDate>Thu, 07 Sep 2023 16:06:24 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</guid>
+      <description>在Java应用中，普通的Java Bean的生命周期很简单。而Spring的Bean的生命周期则比较复杂，Spring的Bean由IOC容器进行实例化、组装和管理。</description>
+    </item>
+    <item>
+      <title>JUC</title>
+      <link>https://lyj.cloudns.ch/post/java-juc-description/</link>
+      <pubDate>Sun, 27 Aug 2023 15:09:51 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/java-juc-description/</guid>
+      <description>JUC（Java Util Concurrent）是Java5之后新增的一组并发编程工具包，提供了一系列高效、线程安全的并发集合，方便在多线程环境下处理共享数据</description>
+    </item>
+    <item>
+      <title>数据库设计规范</title>
+      <link>https://lyj.cloudns.ch/post/database-design-specifications/</link>
+      <pubDate>Thu, 24 Aug 2023 20:12:09 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/database-design-specifications/</guid>
+      <description>为了建立冗余小、结构比较合理的数据库，在设计数据库的过程中就需要遵循一定的规范。在关系型数据库中称这种规范为范式</description>
+    </item>
+    <item>
+      <title>JWT(JSON WEB TOKEN)</title>
+      <link>https://lyj.cloudns.ch/post/jwt-description/</link>
+      <pubDate>Sun, 20 Aug 2023 16:54:01 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/jwt-description/</guid>
+      <description>JWT 是 JSON Web Token 的缩写，是一种用于在网络应用环境间传递安全信息的简洁的、URL安全的表述性声明规范。</description>
+    </item>
+  </channel>
+</rss>

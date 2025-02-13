@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on LYJ&#39;s Blog</title>
+    <link>https://lyj.cloudns.ch/categories/linux/</link>
+    <description>Recent content in Linux on LYJ&#39;s Blog</description>
+    <image>
+      <title>LYJ&#39;s Blog</title>
+      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Oct 2024 15:43:23 +0000</lastBuildDate>
+    <atom:link href="https://lyj.cloudns.ch/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux系统开机时间优化</title>
+      <link>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</link>
+      <pubDate>Sat, 19 Oct 2024 15:43:23 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</guid>
+      <description>通过禁用不必要的服务、优化 GRUB 设置和分析启动过程来优化Linux系统开机时间</description>
+    </item>
+    <item>
+      <title>解决Linux下WPS存在的问题</title>
+      <link>https://lyj.cloudns.ch/post/linux-wps-problem/</link>
+      <pubDate>Sun, 29 Sep 2024 20:41:59 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/linux-wps-problem/</guid>
+      <description>相较于Windows下的WPS，Linux下的 WPS存在的较多的问题，如字体确实，PDF功能不能使用，PDF文字缺失等问题。</description>
+    </item>
+    <item>
+      <title>EndeavourOS安装显卡驱动</title>
+      <link>https://lyj.cloudns.ch/post/endeavoursos-install-graphics-card-driver/</link>
+      <pubDate>Sun, 15 Sep 2024 20:32:11 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/endeavoursos-install-graphics-card-driver/</guid>
+      <description>EndeavourOS安装显卡驱动记录，arch系列皆通用</description>
+    </item>
+    <item>
+      <title>Linux通用配置文件</title>
+      <link>https://lyj.cloudns.ch/post/linux-general-configuration-file/</link>
+      <pubDate>Fri, 19 Jul 2024 22:47:54 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/linux-general-configuration-file/</guid>
+      <description>在不同的Linux发行版本中都存在这一些通用的配置文件，这是一些通用配置文件的写法</description>
+    </item>
+    <item>
+      <title>Linux日常使用记录</title>
+      <link>https://lyj.cloudns.ch/post/linux-daily-use-record/</link>
+      <pubDate>Sun, 19 May 2024 16:49:49 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/linux-daily-use-record/</guid>
+      <description>该文章记录了日常使用Linux过程中一些我容易遗忘的内容</description>
+    </item>
+    <item>
+      <title>Debian编译Emacs</title>
+      <link>https://lyj.cloudns.ch/post/debian-build-emacs/</link>
+      <pubDate>Sun, 28 Apr 2024 17:56:25 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/debian-build-emacs/</guid>
+      <description>Emacs 是一个文本编辑器系列，包含有多个分支，其中最主流的一支是 GNU Emacs，大多数情况下所说的 Emacs 都是指 GNU Emacs。Emacs 这一名字最早来源于 “Editor MACroS”，后来也有人称它集合了五个主要功能键的首字母 Esc、Meta、Alt、Ctrl、Shift。</description>
+    </item>
+    <item>
+      <title>ssh配置文件说明</title>
+      <link>https://lyj.cloudns.ch/post/ssh-configuration-file-description/</link>
+      <pubDate>Sun, 21 Apr 2024 21:45:17 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/ssh-configuration-file-description/</guid>
+      <description>OpenSSH是SSH（Secure Shell）协议的免费且开源的实现，主要用于安全地远程控制计算机或在计算机之间传输文件。SSH协议通过加密通道确保了数据传输的安全性，而OpenSSH则提供了这一协议的具体应用。 为了提升用户体验和操作便捷性，OpenSSH客户端允许用户通过一个名为config的配置文件自定义SSH连接的参数。</description>
+    </item>
+    <item>
+      <title>Debian实现核显和Nvidia独显切换</title>
+      <link>https://lyj.cloudns.ch/post/debian-graphics-card-driver-switch/</link>
+      <pubDate>Tue, 16 Apr 2024 14:56:09 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/debian-graphics-card-driver-switch/</guid>
+      <description>Debian并没有像Ubuntu一样有nvidia-prime的软件包，因此不能使用sudo prime-select来切换显卡，但是有一个名叫envycontrol的开源项目可是实现通过使用命令行切换来GPU。</description>
+    </item>
+    <item>
+      <title>chroot修复Debian</title>
+      <link>https://lyj.cloudns.ch/post/chroot-fix-debian-problem/</link>
+      <pubDate>Wed, 27 Mar 2024 10:52:44 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/chroot-fix-debian-problem/</guid>
+      <description>chroot是一个Unix-like系统中的命令，用于改变进程的根目录，可用于系统恢复和修复</description>
+    </item>
+    <item>
+      <title>Linux目录作用详解</title>
+      <link>https://lyj.cloudns.ch/post/linux-dirctory-description/</link>
+      <pubDate>Thu, 14 Mar 2024 10:30:32 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/linux-dirctory-description/</guid>
+      <description>在Linux系统中，不同的目录具有不同的作用和功能，每个目录都扮演着特定的角色，有助于组织和管理文件系统。</description>
+    </item>
+    <item>
+      <title>Shell编程</title>
+      <link>https://lyj.cloudns.ch/post/shell-program/</link>
+      <pubDate>Sun, 27 Aug 2023 16:47:56 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/shell-program/</guid>
+      <description>Shell既是一种命令语言，又是一种程序设计语言，在中文中解释“外壳”的意思，就是操作系统的外壳。工作中我们通过shell命令来操作和控制操作系统，在Linux操作系统中的Shell命令就包括touch、cd、pwd、mkdir等等。</description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://lyj.cloudns.ch/post/docker-description/</link>
+      <pubDate>Thu, 24 Aug 2023 20:18:49 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/docker-description/</guid>
+      <description>Docker是一个开源的容器引擎，是一种操作系统级别的虚拟化技术，Docker让开发者可以打包自己的应用以及依赖到一个可移植的容器当中，然后发布到任何的Linux机器上面。</description>
+    </item>
+    <item>
+      <title>OpenSUSE配置</title>
+      <link>https://lyj.cloudns.ch/post/opensuse-configuration/</link>
+      <pubDate>Thu, 17 Aug 2023 21:11:51 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/opensuse-configuration/</guid>
+      <description>openSUSE配置相关的开发环境</description>
+    </item>
+  </channel>
+</rss>
