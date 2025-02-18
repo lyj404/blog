@@ -25,22 +25,22 @@ languages:
       main:
         - name: 首页
           pageRef: /
-          weight: 4 # 控制在页面上展示的前后顺序
+          weight: 1 # 控制在页面上展示的前后顺序
         - name: 归档
           pageRef: archives/
-          weight: 5
+          weight: 2
         - name: 分类
           pageRef: categories/
-          weight: 10
+          weight: 3
         - name: 标签
           pageRef: tags/
-          weight: 10
+          weight: 4
         - name: 搜索
           pageRef: search/
-          weight: 20
+          weight: 5
         - name: 关于
           pageRef: about/
-          weight: 21
+          weight: 6
 
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#search-page
 outputs:
@@ -75,7 +75,7 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true # 在归档页面展示所有的页面
-  ShowPageNums: true # 展示页面的页数
+  ShowPageNums: false # 展示页面的页数
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
