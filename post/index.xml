@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 06 Jan 2025 20:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 20:47:50 +0800</lastBuildDate>
     <atom:link href="https://lyj.cloudns.ch/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>终端使用代理</title>
+      <link>https://lyj.cloudns.ch/post/using-proxy-in-terminal/</link>
+      <pubDate>Thu, 27 Feb 2025 20:47:50 +0800</pubDate>
+      <guid>https://lyj.cloudns.ch/post/using-proxy-in-terminal/</guid>
+      <description>本文详细介绍了在 Linux 系统中如何通过代理访问网络，特别是针对终端操作的设置方式。内容包括系统代理与终端代理的区别、如何通过环境变量设置终端代理、安装与配置 proxychains-ng，以及解决 Go 语言编写的 yay 在使用 proxychains-ng 时的网络问题。此外，还提供了代理设置后的测试方法和步骤，帮助用户确保代理配置生效并正常运行。无论是新手还是高级用户，都可以通过本文快速掌握 Linux 系统中的代理设置技巧。</description>
+    </item>
     <item>
       <title>Git提交规范和GitFlow</title>
       <link>https://lyj.cloudns.ch/post/git-specifications-gitflow/</link>

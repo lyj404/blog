@@ -5,22 +5,31 @@
     <loc>https://lyj.cloudns.ch/</loc>
     <lastmod>2025-02-27T20:34:54+00:00</lastmod>
   </url><url>
+    <loc>https://lyj.cloudns.ch/categories/</loc>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/tags/endeavouros/</loc>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/categories/linux/</loc>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+  </url><url>
     <loc>https://lyj.cloudns.ch/post/</loc>
-    <lastmod>2025-02-27T20:34:54+00:00</lastmod>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/tags/</loc>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/post/using-proxy-in-terminal/</loc>
+    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/categories/backend/</loc>
-    <lastmod>2025-01-06T20:38:40+00:00</lastmod>
-  </url><url>
-    <loc>https://lyj.cloudns.ch/categories/</loc>
     <lastmod>2025-01-06T20:38:40+00:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/tags/git/</loc>
     <lastmod>2025-01-06T20:38:40+00:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/post/git-specifications-gitflow/</loc>
-    <lastmod>2025-01-06T20:38:40+00:00</lastmod>
-  </url><url>
-    <loc>https://lyj.cloudns.ch/tags/</loc>
     <lastmod>2025-01-06T20:38:40+00:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/tags/springboot/</loc>
@@ -32,14 +41,8 @@
     <loc>https://lyj.cloudns.ch/tags/linux/</loc>
     <lastmod>2024-10-19T15:43:23+00:00</lastmod>
   </url><url>
-    <loc>https://lyj.cloudns.ch/categories/linux/</loc>
-    <lastmod>2024-10-19T15:43:23+00:00</lastmod>
-  </url><url>
     <loc>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</loc>
     <lastmod>2024-10-19T15:43:23+00:00</lastmod>
-  </url><url>
-    <loc>https://lyj.cloudns.ch/tags/endeavouros/</loc>
-    <lastmod>2024-09-29T20:41:59+00:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/post/linux-wps-problem/</loc>
     <lastmod>2024-09-29T20:41:59+00:00</lastmod>

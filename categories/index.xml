@@ -11,20 +11,20 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 06 Jan 2025 20:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 20:47:50 +0800</lastBuildDate>
     <atom:link href="https://lyj.cloudns.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://lyj.cloudns.ch/categories/linux/</link>
+      <pubDate>Thu, 27 Feb 2025 20:47:50 +0800</pubDate>
+      <guid>https://lyj.cloudns.ch/categories/linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>BackEnd</title>
       <link>https://lyj.cloudns.ch/categories/backend/</link>
       <pubDate>Mon, 06 Jan 2025 20:38:40 +0000</pubDate>
       <guid>https://lyj.cloudns.ch/categories/backend/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://lyj.cloudns.ch/categories/linux/</link>
-      <pubDate>Sat, 19 Oct 2024 15:43:23 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/categories/linux/</guid>
       <description></description>
     </item>
     <item>
