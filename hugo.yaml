@@ -83,6 +83,8 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: true
+  toc: true
+  tocDepth: 1
   tocopen: false
   enableRobotsTXT: true # 允许生成 robots.txt
 
@@ -146,6 +148,10 @@ params:
 pygmentsUseClasses: true
 
 markup:
+  tableOfContents:
+    endLevel: 6 # 目录生成到6级标题为止
+    ordered: false # 目录不显示序号
+    startLevel: 1 # 目录从一级标题开始
   highlight:
     codeFences: true
     guessSyntax: true
