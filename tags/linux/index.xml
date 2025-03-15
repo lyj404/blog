@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.143.1</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 19 Oct 2024 15:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 14:53:51 +0800</lastBuildDate>
     <atom:link href="https://lyj.cloudns.ch/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Stow管理dotfiles</title>
+      <link>https://lyj.cloudns.ch/post/manage-dotfiles-with-stow/</link>
+      <pubDate>Sat, 15 Mar 2025 14:53:51 +0800</pubDate>
+      <guid>https://lyj.cloudns.ch/post/manage-dotfiles-with-stow/</guid>
+      <description>Dotfiles是Linux中的配置文件，通常散落在主目录下。Stow通过创建软链接，将Dotfiles集中到~/dotfiles目录中统一管理。本文介绍Stow的基本用法（安装、链接、删除、更新）和高级功能（如.stow-local-ignore、.stowrc），并提供管理Bash、Git、Vim等配置的示例，帮助用户高效组织Dotfiles，避免意外链接。</description>
+    </item>
     <item>
       <title>Linux系统开机时间优化</title>
       <link>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</link>

@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lyj.cloudns.ch/categories/</loc>
-    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
   </url><url>
-    <loc>https://lyj.cloudns.ch/tags/endeavouros/</loc>
-    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+    <loc>https://lyj.cloudns.ch/tags/linux/</loc>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/categories/linux/</loc>
-    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/</loc>
-    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/post/</loc>
-    <lastmod>2025-02-27T20:47:50+08:00</lastmod>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/tags/</loc>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/post/manage-dotfiles-with-stow/</loc>
+    <lastmod>2025-03-15T14:53:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lyj.cloudns.ch/tags/endeavouros/</loc>
     <lastmod>2025-02-27T20:47:50+08:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/post/using-proxy-in-terminal/</loc>
@@ -37,9 +43,6 @@
   </url><url>
     <loc>https://lyj.cloudns.ch/post/springboot-use-https/</loc>
     <lastmod>2024-11-18T20:15:29+00:00</lastmod>
-  </url><url>
-    <loc>https://lyj.cloudns.ch/tags/linux/</loc>
-    <lastmod>2024-10-19T15:43:23+00:00</lastmod>
   </url><url>
     <loc>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</loc>
     <lastmod>2024-10-19T15:43:23+00:00</lastmod>
