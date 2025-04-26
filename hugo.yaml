@@ -124,7 +124,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:lyj404@qq.com"
+      url: "mailto:lyj404@outlook.com"
     - name: github
       url: "https://github.com/lyj404"
 
