@@ -9,16 +9,65 @@
       <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 05 Sep 2023 17:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 20:15:29 +0000</lastBuildDate>
     <atom:link href="https://lyj.cloudns.ch/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpringBoot使用HTTPS</title>
+      <link>https://lyj.cloudns.ch/post/springboot-use-https/</link>
+      <pubDate>Mon, 18 Nov 2024 20:15:29 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/springboot-use-https/</guid>
+      <description>将Spring Boot项目的HTTP转化成HTTPS</description>
+    </item>
+    <item>
+      <title>SpringBoot自动装配原理</title>
+      <link>https://lyj.cloudns.ch/post/springboot-autoconfiguration-principle/</link>
+      <pubDate>Tue, 26 Sep 2023 21:42:12 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/springboot-autoconfiguration-principle/</guid>
+      <description>Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。</description>
+    </item>
+    <item>
+      <title>sychronized底层实现</title>
+      <link>https://lyj.cloudns.ch/post/sychronized-underlying-implementation/</link>
+      <pubDate>Wed, 20 Sep 2023 16:14:47 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/sychronized-underlying-implementation/</guid>
+      <description>sychronized是Java的关键字，用于实现线程之间的同步，保证多个线程对共享资源的安全访问，也被称为同步锁</description>
+    </item>
+    <item>
+      <title>实现HashMap(JDK1.7)</title>
+      <link>https://lyj.cloudns.ch/post/java1.7-hashmap-implement/</link>
+      <pubDate>Mon, 18 Sep 2023 20:18:43 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/java1.7-hashmap-implement/</guid>
+      <description>HashMap是数据结构中的哈希表在Java中的具体实现。JDK1.7的HashMap采用数组&#43;链表的方式实现。</description>
+    </item>
+    <item>
+      <title>Spring循环依赖</title>
+      <link>https://lyj.cloudns.ch/post/spring-circular-dependency/</link>
+      <pubDate>Thu, 07 Sep 2023 18:01:30 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/spring-circular-dependency/</guid>
+      <description>循环依赖是指两个或多个模块或组件之间相互依赖，形成一个闭环情况。而Spring通过三级缓存解决循环依赖。</description>
+    </item>
+    <item>
+      <title>Spring Bean的生命周期</title>
+      <link>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</link>
+      <pubDate>Thu, 07 Sep 2023 16:06:24 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</guid>
+      <description>在Java应用中，普通的Java Bean的生命周期很简单。而Spring的Bean的生命周期则比较复杂，Spring的Bean由IOC容器进行实例化、组装和管理。</description>
+    </item>
     <item>
       <title>JVM内存结构</title>
       <link>https://lyj.cloudns.ch/post/java-jvm-memory-structure/</link>
       <pubDate>Tue, 05 Sep 2023 17:53:11 +0000</pubDate>
       <guid>https://lyj.cloudns.ch/post/java-jvm-memory-structure/</guid>
       <description>JVM（Java Virtual Machine）内存结构是指JVM在运行时将内存划分为不同区域，用于管理程序的运行和数据。</description>
+    </item>
+    <item>
+      <title>JUC</title>
+      <link>https://lyj.cloudns.ch/post/java-juc-description/</link>
+      <pubDate>Sun, 27 Aug 2023 15:09:51 +0000</pubDate>
+      <guid>https://lyj.cloudns.ch/post/java-juc-description/</guid>
+      <description>JUC（Java Util Concurrent）是Java5之后新增的一组并发编程工具包，提供了一系列高效、线程安全的并发集合，方便在多线程环境下处理共享数据</description>
     </item>
   </channel>
 </rss>
