@@ -4,7 +4,7 @@ date: 2023-09-07 16:06:24
 tags:
   - Spring
 categories:
-  - BackEnd
+  - Java
 keywords:
   - Spring Bean的生命周期
   - Spring

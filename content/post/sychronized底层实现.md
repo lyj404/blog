@@ -4,7 +4,7 @@ date: 2023-09-20 16:14:47
 tags:
   - sychronized
 categories:
-  - BackEnd
+  - Java
 keywords:
   - sychronized
   - sychronized底层实现

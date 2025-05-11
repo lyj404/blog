@@ -4,7 +4,7 @@ date: 2023-09-26 21:42:12
 tags:
   - SpringBoot
 categories:
-  - BackEnd
+  - Java
 keywords:
   - SpringBoot自动装配原理
   - Spring

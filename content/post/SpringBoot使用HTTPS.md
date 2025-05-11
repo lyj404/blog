@@ -4,7 +4,7 @@ date: 2024-11-18 20:15:29
 tags:
   - SpringBoot
 categories:
-  - BackEnd
+  - Java
 keywords:
   - SpringBoot使用HTTPS
   - SpringBoot
