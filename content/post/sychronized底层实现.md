@@ -53,16 +53,16 @@ sychronized的底层实现依赖于JVM，因此sychronized的与JVM内存的存�
 2. 类型指针：指向对象的类元数据的指针，用于确定对象属于哪个类。
 3. 数组长度：如果对象是数组类型，则会包含数字的长度信息。
 
-[![对象头](https://z1.ax1x.com/2023/09/20/pP5h0gI.png)](https://imgse.com/i/pP5h0gI)
+![对象头](https://s11.ax1x.com/2023/09/20/pP5h0gI.png)
 
 >除常见字段外，对象头可能还包含其他与垃圾回收、锁机制和JIT编译等相关的信息。并且对象头的大小是固定的，在不同JVM上可能有所不同。例如：在32位JVM上对象头通常占8个字节，而在64位JVM上通常占12或16个字节。
 
 ## Monitor
 通过`javap -c -s -v -l SynchronizedDemo.class`命令反编译代码，可以看到相对应的字节码指令。
 `sychronized`在修饰代码块的时候，JVM采用`monitorenter`和`monitorexit`两个指令来实现同步，`monitorenter`指令指向同步代码块开始的位置，`monitorexit`指令指向同步代码块结束的位置。
-[![Monitorenter](https://z1.ax1x.com/2023/09/20/pP5hvx1.png)](https://imgse.com/i/pP5hvx1)
+![Monitorenter](https://s21.ax1x.com/2025/05/06/pEq02WQ.png)
 `sychronized`在修饰实例方法的时候，JVM采用`ACC_SYNCHRONIZED`标识符来实现同步，通过这个标识来指明这是一个同步方法
-[![acc_synchronized](https://z1.ax1x.com/2023/09/20/pP5hj2R.png)](https://imgse.com/i/pP5hj2R)
+![acc_synchronized](https://s21.ax1x.com/2025/05/11/pEOHho6.png)
 >上述的三个命令都是基于`Monitor`实现的。
 
 实例对象结构中有对象头，对象头中有一个结构Mark Word，Mark Word的指针指向了`Monitor`。
@@ -97,7 +97,7 @@ ObjectMonitor() {
 
 # 锁升级
 锁解决了数据的安全性问题，但是同时带来了性能的下降，因此在JDK1.6之后对于`sychronized`锁做了一些优化，为了减少获得锁和释放锁带来ed开销，引入了偏向锁、轻量级锁、重量级锁。
-[![锁升级](https://z1.ax1x.com/2023/09/20/pP5Iw8J.png)](https://imgse.com/i/pP5Iw8J)
+![锁升级](https://s21.ax1x.com/2025/05/11/pEOHoWD.png)]
 **无锁**
 没有对资源进行锁定，所有的线程都能访问并修改同一个资源，但是同时只有一个线程能够成功。
 **偏向锁**
@@ -107,7 +107,7 @@ ObjectMonitor() {
 **重量级锁**
 其他线程试图获取锁时，都会被阻塞，只有持有锁的线程释放锁之后才会唤醒这些线程。
 
-[![Mark Word](https://z1.ax1x.com/2023/09/20/pP5Ivxs.png)](https://imgse.com/i/pP5Ivxs)
+![Mark Word](https://s21.ax1x.com/2025/05/11/pEOH7Se.png)
 1. 当无锁的时候，Mark Word记录对象的hashCode，锁标志位是01，是否偏向锁是0
 2. 当对象被当做同步锁并有一个线程抢到锁时，锁标志位还是01，但是是否偏向锁变成了01，并且记录了当前线程的ID
 3. 当有其他线程来获取锁时，发现处于偏向锁状态，会使用CAS操作来尝试获取锁，并且这个操作时有可能成功的，获取获取成功，Mark Word中保存的线程ID将会替换成当前线程的；如果抢锁失败，偏向锁会升级成为轻量级锁，JVM会在当前线程的线程栈开辟一块单独的空间，保存指向对象锁Mark Word的指针，同时在对象锁Mark Word中保存指向这片空间的指针，如果保存成功，代表线程抢到了锁，就把Mark Word的锁标志位改为00
