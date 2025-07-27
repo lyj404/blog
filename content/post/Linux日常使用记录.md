@@ -428,3 +428,10 @@ set nonewlines
 # 启用语法高亮
 include "/usr/share/nano/*.nanorc"
 ```
+# KDE6.4切换X11
+从KDE6.4开始默认使用`WayLand`了，导致在系统设置或SDDM登录界面没有切换`X11`的选项，但是由于现阶段有些软件对于`WayLand`的兼容性还是没有`X11`好，因此我还是打算切换到`X11`，现如今想要切换`X11`需要安装一个额外的软件包
+```bash
+sudo pacman -S plasma-x11-session
+```
+
+> 安装之后需要重启或注销才能生效
