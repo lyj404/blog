@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/linux/</link>
+    <link>https://fbug.link/tags/linux/</link>
     <description>Recent content in Linux on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 15 Mar 2025 14:53:51 +0800</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Stow管理dotfiles</title>
-      <link>https://lyj.cloudns.ch/post/manage-dotfiles-with-stow/</link>
+      <link>https://fbug.link/post/manage-dotfiles-with-stow/</link>
       <pubDate>Sat, 15 Mar 2025 14:53:51 +0800</pubDate>
-      <guid>https://lyj.cloudns.ch/post/manage-dotfiles-with-stow/</guid>
+      <guid>https://fbug.link/post/manage-dotfiles-with-stow/</guid>
       <description>Dotfiles是Linux中的配置文件，通常散落在主目录下。Stow通过创建软链接，将Dotfiles集中到~/dotfiles目录中统一管理。本文介绍Stow的基本用法（安装、链接、删除、更新）和高级功能（如.stow-local-ignore、.stowrc），并提供管理Bash、Git、Vim等配置的示例，帮助用户高效组织Dotfiles，避免意外链接。</description>
     </item>
     <item>
       <title>Linux系统开机时间优化</title>
-      <link>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</link>
+      <link>https://fbug.link/post/linux-starup-time-optimization/</link>
       <pubDate>Sat, 19 Oct 2024 15:43:23 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/linux-starup-time-optimization/</guid>
+      <guid>https://fbug.link/post/linux-starup-time-optimization/</guid>
       <description>通过禁用不必要的服务、优化 GRUB 设置和分析启动过程来优化Linux系统开机时间</description>
     </item>
     <item>
       <title>Linux通用配置文件</title>
-      <link>https://lyj.cloudns.ch/post/linux-general-configuration-file/</link>
+      <link>https://fbug.link/post/linux-general-configuration-file/</link>
       <pubDate>Fri, 19 Jul 2024 22:47:54 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/linux-general-configuration-file/</guid>
+      <guid>https://fbug.link/post/linux-general-configuration-file/</guid>
       <description>在不同的Linux发行版本中都存在这一些通用的配置文件，这是一些通用配置文件的写法</description>
     </item>
     <item>
       <title>chroot修复Debian</title>
-      <link>https://lyj.cloudns.ch/post/chroot-fix-debian-problem/</link>
+      <link>https://fbug.link/post/chroot-fix-debian-problem/</link>
       <pubDate>Wed, 27 Mar 2024 10:52:44 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/chroot-fix-debian-problem/</guid>
+      <guid>https://fbug.link/post/chroot-fix-debian-problem/</guid>
       <description>chroot是一个Unix-like系统中的命令，用于改变进程的根目录，可用于系统恢复和修复</description>
     </item>
     <item>
       <title>Linux目录作用详解</title>
-      <link>https://lyj.cloudns.ch/post/linux-dirctory-description/</link>
+      <link>https://fbug.link/post/linux-dirctory-description/</link>
       <pubDate>Thu, 14 Mar 2024 10:30:32 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/linux-dirctory-description/</guid>
+      <guid>https://fbug.link/post/linux-dirctory-description/</guid>
       <description>在Linux系统中，不同的目录具有不同的作用和功能，每个目录都扮演着特定的角色，有助于组织和管理文件系统。</description>
     </item>
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Git on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/git/</link>
+    <link>https://fbug.link/tags/git/</link>
     <description>Recent content in Git on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 06 Jan 2025 20:38:40 +0000</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git提交规范和GitFlow</title>
-      <link>https://lyj.cloudns.ch/post/git-specifications-gitflow/</link>
+      <link>https://fbug.link/post/git-specifications-gitflow/</link>
       <pubDate>Mon, 06 Jan 2025 20:38:40 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/git-specifications-gitflow/</guid>
+      <guid>https://fbug.link/post/git-specifications-gitflow/</guid>
       <description>讲述如何使用 Git 提交规范和 Git Flow 工作流来有效管理代码版本控制。通过遵循标准化的提交信息格式和结构化的分支策略，开发团队可以提高代码的可维护性和协作效率。</description>
     </item>
     <item>
       <title>.gitignore文件的配置使用</title>
-      <link>https://lyj.cloudns.ch/post/gitignore-file-use/</link>
+      <link>https://fbug.link/post/gitignore-file-use/</link>
       <pubDate>Sat, 02 Mar 2024 17:16:07 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/gitignore-file-use/</guid>
+      <guid>https://fbug.link/post/gitignore-file-use/</guid>
       <description>.gitignore文件的作用是告诉Git哪些文件或目录不需要纳入版本控制。当您在项目中创建.gitignore文件并列出要忽略的文件或目录时，Git会在执行各种操作（如git status、git add、git commit等）时忽略这些被指定的文件或目录。</description>
     </item>
   </channel>

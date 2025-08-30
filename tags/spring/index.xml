@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Spring on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/spring/</link>
+    <link>https://fbug.link/tags/spring/</link>
     <description>Recent content in Spring on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 07 Sep 2023 18:01:30 +0000</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/spring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring循环依赖</title>
-      <link>https://lyj.cloudns.ch/post/spring-circular-dependency/</link>
+      <link>https://fbug.link/post/spring-circular-dependency/</link>
       <pubDate>Thu, 07 Sep 2023 18:01:30 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/spring-circular-dependency/</guid>
+      <guid>https://fbug.link/post/spring-circular-dependency/</guid>
       <description>循环依赖是指两个或多个模块或组件之间相互依赖，形成一个闭环情况。而Spring通过三级缓存解决循环依赖。</description>
     </item>
     <item>
       <title>Spring Bean的生命周期</title>
-      <link>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</link>
+      <link>https://fbug.link/post/spring-bean-lifecycle/</link>
       <pubDate>Thu, 07 Sep 2023 16:06:24 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/spring-bean-lifecycle/</guid>
+      <guid>https://fbug.link/post/spring-bean-lifecycle/</guid>
       <description>在Java应用中，普通的Java Bean的生命周期很简单。而Spring的Bean的生命周期则比较复杂，Spring的Bean由IOC容器进行实例化、组装和管理。</description>
     </item>
   </channel>

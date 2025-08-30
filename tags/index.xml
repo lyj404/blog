@@ -2,148 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/</link>
+    <link>https://fbug.link/tags/</link>
     <description>Recent content in Tags on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 15 Mar 2025 14:53:51 +0800</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://lyj.cloudns.ch/tags/linux/</link>
+      <link>https://fbug.link/tags/linux/</link>
       <pubDate>Sat, 15 Mar 2025 14:53:51 +0800</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/linux/</guid>
+      <guid>https://fbug.link/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>EndeavourOS</title>
-      <link>https://lyj.cloudns.ch/tags/endeavouros/</link>
+      <link>https://fbug.link/tags/endeavouros/</link>
       <pubDate>Thu, 27 Feb 2025 20:47:50 +0800</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/endeavouros/</guid>
+      <guid>https://fbug.link/tags/endeavouros/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://lyj.cloudns.ch/tags/git/</link>
+      <link>https://fbug.link/tags/git/</link>
       <pubDate>Mon, 06 Jan 2025 20:38:40 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/git/</guid>
+      <guid>https://fbug.link/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>SpringBoot</title>
-      <link>https://lyj.cloudns.ch/tags/springboot/</link>
+      <link>https://fbug.link/tags/springboot/</link>
       <pubDate>Mon, 18 Nov 2024 20:15:29 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/springboot/</guid>
+      <guid>https://fbug.link/tags/springboot/</guid>
       <description></description>
     </item>
     <item>
       <title>Debian</title>
-      <link>https://lyj.cloudns.ch/tags/debian/</link>
+      <link>https://fbug.link/tags/debian/</link>
       <pubDate>Sun, 19 May 2024 16:49:49 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/debian/</guid>
+      <guid>https://fbug.link/tags/debian/</guid>
       <description></description>
     </item>
     <item>
       <title>Emacs</title>
-      <link>https://lyj.cloudns.ch/tags/emacs/</link>
+      <link>https://fbug.link/tags/emacs/</link>
       <pubDate>Sun, 28 Apr 2024 17:56:25 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/emacs/</guid>
+      <guid>https://fbug.link/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssh</title>
-      <link>https://lyj.cloudns.ch/tags/ssh/</link>
+      <link>https://fbug.link/tags/ssh/</link>
       <pubDate>Sun, 21 Apr 2024 21:45:17 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/ssh/</guid>
+      <guid>https://fbug.link/tags/ssh/</guid>
       <description></description>
     </item>
     <item>
       <title>MongoDB</title>
-      <link>https://lyj.cloudns.ch/tags/mongodb/</link>
+      <link>https://fbug.link/tags/mongodb/</link>
       <pubDate>Tue, 09 Jan 2024 19:39:59 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/mongodb/</guid>
+      <guid>https://fbug.link/tags/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>DDD</title>
-      <link>https://lyj.cloudns.ch/tags/ddd/</link>
+      <link>https://fbug.link/tags/ddd/</link>
       <pubDate>Sun, 08 Oct 2023 16:29:12 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/ddd/</guid>
+      <guid>https://fbug.link/tags/ddd/</guid>
       <description></description>
     </item>
     <item>
       <title>Sychronized</title>
-      <link>https://lyj.cloudns.ch/tags/sychronized/</link>
+      <link>https://fbug.link/tags/sychronized/</link>
       <pubDate>Wed, 20 Sep 2023 16:14:47 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/sychronized/</guid>
+      <guid>https://fbug.link/tags/sychronized/</guid>
       <description></description>
     </item>
     <item>
       <title>HashMap</title>
-      <link>https://lyj.cloudns.ch/tags/hashmap/</link>
+      <link>https://fbug.link/tags/hashmap/</link>
       <pubDate>Mon, 18 Sep 2023 20:18:43 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/hashmap/</guid>
+      <guid>https://fbug.link/tags/hashmap/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://lyj.cloudns.ch/tags/spring/</link>
+      <link>https://fbug.link/tags/spring/</link>
       <pubDate>Thu, 07 Sep 2023 18:01:30 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/spring/</guid>
+      <guid>https://fbug.link/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>JVM</title>
-      <link>https://lyj.cloudns.ch/tags/jvm/</link>
+      <link>https://fbug.link/tags/jvm/</link>
       <pubDate>Tue, 05 Sep 2023 17:53:11 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/jvm/</guid>
+      <guid>https://fbug.link/tags/jvm/</guid>
       <description></description>
     </item>
     <item>
       <title>Shell</title>
-      <link>https://lyj.cloudns.ch/tags/shell/</link>
+      <link>https://fbug.link/tags/shell/</link>
       <pubDate>Sun, 27 Aug 2023 16:47:56 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/shell/</guid>
+      <guid>https://fbug.link/tags/shell/</guid>
       <description></description>
     </item>
     <item>
       <title>JUC</title>
-      <link>https://lyj.cloudns.ch/tags/juc/</link>
+      <link>https://fbug.link/tags/juc/</link>
       <pubDate>Sun, 27 Aug 2023 15:09:51 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/juc/</guid>
+      <guid>https://fbug.link/tags/juc/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://lyj.cloudns.ch/tags/docker/</link>
+      <link>https://fbug.link/tags/docker/</link>
       <pubDate>Thu, 24 Aug 2023 20:18:49 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/docker/</guid>
+      <guid>https://fbug.link/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Database</title>
-      <link>https://lyj.cloudns.ch/tags/database/</link>
+      <link>https://fbug.link/tags/database/</link>
       <pubDate>Thu, 24 Aug 2023 20:12:09 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/database/</guid>
+      <guid>https://fbug.link/tags/database/</guid>
       <description></description>
     </item>
     <item>
       <title>JWT</title>
-      <link>https://lyj.cloudns.ch/tags/jwt/</link>
+      <link>https://fbug.link/tags/jwt/</link>
       <pubDate>Sun, 20 Aug 2023 16:54:01 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/jwt/</guid>
+      <guid>https://fbug.link/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenSUSE</title>
-      <link>https://lyj.cloudns.ch/tags/opensuse/</link>
+      <link>https://fbug.link/tags/opensuse/</link>
       <pubDate>Thu, 17 Aug 2023 21:11:51 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/tags/opensuse/</guid>
+      <guid>https://fbug.link/tags/opensuse/</guid>
       <description></description>
     </item>
   </channel>

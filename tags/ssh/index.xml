@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ssh on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/ssh/</link>
+    <link>https://fbug.link/tags/ssh/</link>
     <description>Recent content in Ssh on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 21 Apr 2024 21:45:17 +0000</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ssh配置文件说明</title>
-      <link>https://lyj.cloudns.ch/post/ssh-configuration-file-description/</link>
+      <link>https://fbug.link/post/ssh-configuration-file-description/</link>
       <pubDate>Sun, 21 Apr 2024 21:45:17 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/ssh-configuration-file-description/</guid>
+      <guid>https://fbug.link/post/ssh-configuration-file-description/</guid>
       <description>OpenSSH是SSH（Secure Shell）协议的免费且开源的实现，主要用于安全地远程控制计算机或在计算机之间传输文件。SSH协议通过加密通道确保了数据传输的安全性，而OpenSSH则提供了这一协议的具体应用。 为了提升用户体验和操作便捷性，OpenSSH客户端允许用户通过一个名为config的配置文件自定义SSH连接的参数。</description>
     </item>
   </channel>

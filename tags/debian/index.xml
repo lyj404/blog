@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Debian on LYJ&#39;s Blog</title>
-    <link>https://lyj.cloudns.ch/tags/debian/</link>
+    <link>https://fbug.link/tags/debian/</link>
     <description>Recent content in Debian on LYJ&#39;s Blog</description>
     <image>
       <title>LYJ&#39;s Blog</title>
-      <url>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lyj.cloudns.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fbug.link/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 19 May 2024 16:49:49 +0000</lastBuildDate>
-    <atom:link href="https://lyj.cloudns.ch/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fbug.link/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux日常使用记录</title>
-      <link>https://lyj.cloudns.ch/post/linux-daily-use-record/</link>
+      <link>https://fbug.link/post/linux-daily-use-record/</link>
       <pubDate>Sun, 19 May 2024 16:49:49 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/linux-daily-use-record/</guid>
+      <guid>https://fbug.link/post/linux-daily-use-record/</guid>
       <description>该文章记录了日常使用Linux过程中一些我容易遗忘的内容</description>
     </item>
     <item>
       <title>Debian实现核显和Nvidia独显切换</title>
-      <link>https://lyj.cloudns.ch/post/debian-graphics-card-driver-switch/</link>
+      <link>https://fbug.link/post/debian-graphics-card-driver-switch/</link>
       <pubDate>Tue, 16 Apr 2024 14:56:09 +0000</pubDate>
-      <guid>https://lyj.cloudns.ch/post/debian-graphics-card-driver-switch/</guid>
+      <guid>https://fbug.link/post/debian-graphics-card-driver-switch/</guid>
       <description>Debian并没有像Ubuntu一样有nvidia-prime的软件包，因此不能使用sudo prime-select来切换显卡，但是有一个名叫envycontrol的开源项目可是实现通过使用命令行切换来GPU。</description>
     </item>
   </channel>
